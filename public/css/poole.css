@@ -85,7 +85,7 @@ h1, h2, h3, h4, h5, h6 {
   margin-bottom: .5rem;
   font-weight: bold;
   line-height: 1.25;
-  color: #313131;
+  color: #313131; 
   text-rendering: optimizeLegibility;
 }
 h1 {
@@ -343,7 +343,9 @@ tbody tr:nth-child(odd) th {
 .page-title,
 .post-title,
 .post-title a {
-  color: #303030;
+  /*color: #303030;*/
+  color: #666666;
+  font-family: "Lato", Helvetica, Arial, sans-serif;
 }
 .page-title,
 .post-title {
@@ -421,7 +423,7 @@ a.pagination-item:hover {
   }
   .pagination-item {
     float: left;
-    width: 50%;
+    width: 100%;
   }
   .pagination-item:first-child {
     margin-bottom: 0;
@@ -429,7 +431,6 @@ a.pagination-item:hover {
     border-bottom-left-radius: 4px;
   }
   .pagination-item:last-child {
-    margin-left: -1px;
     border-top-right-radius:    4px;
     border-bottom-right-radius: 4px;
   }

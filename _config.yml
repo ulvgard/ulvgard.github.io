@@ -6,7 +6,7 @@ relative_permalinks: true
 title:            Ulvgard 
 tagline:          
 url:              www.ulvgard.se
-paginate:         1
+paginate:         2
 baseurl:          /
 author:
   name:           Tobias Ulvgård 
@@ -23,4 +23,5 @@ pages_list:
     About: /about
     Projects: /projects
     Contact: /contact
+    Archive: /archive
     Feed: /atom.xml
