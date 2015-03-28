@@ -3,17 +3,24 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            Poole
-tagline:          The Jekyll Butler
-url:              http://getpoole.com
+title:            Ulvgard 
+tagline:          
+url:              www.ulvgard.se
 paginate:         1
 baseurl:          /
 author:
-  name:           Mark Otto
-  url:            https://twitter.com/mdo
-  email:          markdotto@gmail.com
+  name:           Tobias Ulvgård 
+  url:            www.ulvgard.se
+  email:          foo@bar.com
+  repository:	  ulvgard.github.io
 
 # Custom vars
 version:          1.0.0
-github:
-  repo:           https://github.com/poole/poole
+github:		      ulvgard
+
+# menu 
+pages_list:       
+    About: /about
+    Projects: /projects
+    Contact: /contact
+    Feed: /atom.xml
