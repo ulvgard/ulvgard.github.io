@@ -1,0 +1,27 @@
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            Ulvgard 
+tagline:          
+url:              www.ulvgard.se
+paginate:         2
+baseurl:          /
+author:
+  name:           Tobias Ulvgård 
+  url:            www.ulvgard.se
+  email:          foo@bar.com
+  repository:	  ulvgard.github.io
+
+# Custom vars
+version:          1.0.0
+github:		      ulvgard
+
+# menu 
+pages_list:       
+    About: /about
+    Projects: /projects
+    Contact: /contact
+    Archive: /archive
+    Feed: /atom.xml
