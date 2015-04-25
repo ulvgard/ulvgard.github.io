@@ -20,7 +20,7 @@ github:		      ulvgard
 
 # menu 
 pages_list:       
-    Papers: /papers
+    Posts: /posts
     Topics: /topics
     Projects: /projects
     Archive: /archive

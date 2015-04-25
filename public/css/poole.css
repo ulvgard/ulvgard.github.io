@@ -68,7 +68,8 @@ body {
 
 /* No `:visited` state is required by default (browsers will use `a`) */
 a {
-  color: #268bd2;
+  /*color: #268bd2;*/
+  color: #eb5a46;
   text-decoration: none;
 }
 a strong {
@@ -94,12 +95,15 @@ h1 {
 h2 {
   margin-top: 1rem;
   font-size: 1.5rem;
+  font-family: "Exo 2";
 }
 h3 {
+  font-family: "Exo 2";
   margin-top: 1.5rem;
   font-size: 1.25rem;
 }
 h4, h5, h6 {
+  font-family: "Exo 2";
   margin-top: 1rem;
   font-size: 1rem;
 }
@@ -326,7 +330,7 @@ tbody tr:nth-child(odd) th {
 }
 .masthead-title a:hover {
   text-decoration: none;
-  color: #336699;
+  color: #268bd2;
 }
 .masthead-title small {
   font-family: "Lato", Helvetica, Arial, sans-serif;
