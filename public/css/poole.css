@@ -52,7 +52,7 @@ html {
   font-size: 12px;
   line-height: 1.5;
 }
-@media (min-width: 38em) {
+@media (min-width: 40em) {
   html {
     font-size: 14px;
   }
@@ -306,21 +306,31 @@ tbody tr:nth-child(odd) th {
   padding-top:    1.5rem;
   padding-bottom: 1.5rem;
   margin-bottom: 3rem;
+  border-bottom: 1px solid #efefef;
+  font-family: "Lato", Helvetica;
 }
 .masthead-title {
   margin-top: 0;
   margin-bottom: 0;
   color: #505050;
-  font-family: "Lato", Helvetica, Arial, sans-serif;
+  font-family: "Exo 2", Helvetica, Arial, sans-serif;
+  font-weight: bold;
   font-size: 1.5rem;
 
+}
+.masthead-right {
+	float: right;
 }
 .masthead-title a {
   color: #505050;
 }
+.masthead-title a:hover {
+  text-decoration: none;
+  color: #336699;
+}
 .masthead-title small {
   font-family: "Lato", Helvetica, Arial, sans-serif;
-  font-size: 75%;
+  font-size: 70%;
   font-weight: 400;
   color: #c0c0c0;
   letter-spacing: 0;
