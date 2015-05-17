@@ -60,7 +60,8 @@ html {
 }
 
 body {
-  color: #515151;
+  /* color: #515151; */
+    color: #333333;
   background-color: #fff;
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
@@ -70,7 +71,7 @@ body {
 /* No `:visited` state is required by default (browsers will use `a`) */
 a {
   /*color: #268bd2;*/
-  color: #eb5a46;
+  color: #993333;
   text-decoration: none;
 }
 a strong {
