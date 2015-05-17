@@ -48,13 +48,14 @@ body {
 }
 
 html {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 12px;
-  line-height: 1.5;
+  /*font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; */
+  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  line-height: 1.8;
 }
-@media (min-width: 40em) {
+@media (min-width: 55em) {
   html {
-    font-size: 14px;
+    font-size: 16px;
   }
 }
 
@@ -291,7 +292,7 @@ tbody tr:nth-child(odd) th {
  */
 
 .container {
-  max-width: 54rem;
+  max-width: 64rem;
   padding-left:  1rem;
   padding-right: 1rem;
   margin-left:  auto;
