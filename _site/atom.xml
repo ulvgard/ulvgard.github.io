@@ -4,7 +4,7 @@
  <title>Ulvgard</title>
  <link href="www.ulvgard.se/atom.xml" rel="self"/>
  <link href="www.ulvgard.se/"/>
- <updated>2015-05-20T16:11:20+02:00</updated>
+ <updated>2015-05-23T10:40:34+02:00</updated>
  <id>www.ulvgard.se</id>
  <author>
    <name>Tobias Ulvgård</name>
@@ -20,6 +20,8 @@
    <content type="html">&lt;p&gt;&lt;em&gt;The Strange Case of Dr. Jekyll and Mr. Hyde&lt;/em&gt; tells the story of a lawyer investigating the connection of two persons, Dr. Henry Jekyll and Mr. Edward Hyde. Chief among the novel’s supporting cast is a man by the name of Mr. Poole, Dr. Jekyll’s loyal butler.&lt;/p&gt;
 
 &lt;hr /&gt;
+
+&lt;script type=&quot;math/tex; mode=display&quot;&gt;F(\omega) = \int_{-\infty}^{\infty} f(t)e^{-i\omega t} dt&lt;/script&gt;
 
 &lt;p&gt;Poole is the butler for &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt;, the static site generator. It’s designed and developed by &lt;a href=&quot;https://twitter.com/mdo&quot;&gt;@mdo&lt;/a&gt; to provide a clear and concise foundational setup for any Jekyll site. It does so by furnishing a full vanilla Jekyll install with example templates, pages, posts, and styles.&lt;/p&gt;
 
