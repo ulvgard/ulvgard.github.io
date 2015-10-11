@@ -21,8 +21,5 @@ github:		      ulvgard
 # menu 
 pages_list:       
     Posts: /posts
-    Topics: /topics
-    Projects: /projects
     Archive: /archive
-    About: /about
     Feed: /atom.xml
