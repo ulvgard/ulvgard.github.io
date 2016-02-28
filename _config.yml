@@ -1,6 +1,5 @@
 # Permalinks
 permalink:        pretty
-relative_permalinks: true
 
 # Setup
 title:            Ulvgard 
@@ -23,3 +22,5 @@ pages_list:
     Posts: /posts
     Archive: /archive
     Feed: /atom.xml
+
+gems: [jekyll-paginate]
