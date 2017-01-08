@@ -19,6 +19,7 @@ github:		      ulvgard
 
 # menu 
 pages_list:       
+    Demos: /demos
     Posts: /posts
     Archive: /archive
     Feed: /atom.xml
